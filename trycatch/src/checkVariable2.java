@@ -1,5 +1,5 @@
 
-public class arrayOutOfBoundsTryCatch {
+public class checkVariable2 {
 	
 	public static void main(String[] args) {
 		int[] intArray=new int[5];
